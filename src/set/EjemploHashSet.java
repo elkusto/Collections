@@ -22,5 +22,6 @@ public class EjemploHashSet {
             System.out.println(i.next());
         }
         System.out.println(s1);
+        System.out.println(s1.isEmpty());
     }
 }
