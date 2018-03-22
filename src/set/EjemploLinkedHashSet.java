@@ -20,5 +20,7 @@ public class EjemploLinkedHashSet {
         while (i.hasNext()){
             System.out.println(i.next());
         }
+        
+        System.out.println(s2);
     }
 }
